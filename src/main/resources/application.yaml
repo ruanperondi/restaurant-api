@@ -1,0 +1,6 @@
+restaurants:
+  list:
+    max: 5
+  csv:
+    restaurants: classpath:csv/restaurants.csv
+    cuisines: classpath:csv/cuisines.csv
